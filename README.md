@@ -12,7 +12,7 @@
 
 ## Paneer Bhurji : 10
 
-## Random Food Images
+## Random Food Images :10
 
 ![rice](food_images/pexels-janetrangdoan-1132047.jpg)
 ![Fruits](food_images/pexels-satyam-verma-2901977-4449068.jpg)
