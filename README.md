@@ -1,16 +1,16 @@
 # List of Food Recipes
 
-## Tables of Content
+## Tables of Content : 10
 
 - [Jollof Rice](#jollof-rice)
 - [Chocolate Chip Cookie](#chocolate-chip-cookie)
 - [Paneer Bhurji](#paneer-bhurji)
 
-## Jollof Rice
+## Jollof Rice : 10
 
 ## Chocolate Chip Cookie : 5
 
-## Paneer Bhurji
+## Paneer Bhurji : 10
 
 ## Random Food Images
 
